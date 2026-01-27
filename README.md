@@ -1,3 +1,5 @@
+# BFM-SWM
+
 ## Application: Influence Maximization
 
 * **Compilation**
