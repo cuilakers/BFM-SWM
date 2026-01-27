@@ -1,6 +1,4 @@
-//
-// Created by CLAKERS on 2022/10/3.
-//
+
 
 #ifndef IMAGE_SIMULTANEOUS_H
 #define IMAGE_SIMULTANEOUS_H
