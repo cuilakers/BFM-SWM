@@ -1,6 +1,5 @@
-//
-// Created by CLAKERS on 2020/8/22.
-//
+
+
 #ifndef IMAGE_READ_DATA_H
 #define IMAGE_READ_DATA_H
 #include <iostream>
