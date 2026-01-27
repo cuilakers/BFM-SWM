@@ -1,6 +1,5 @@
-//
-// Created by xuec on 2026/1/23.
-//
+
+
 
 #ifndef COVERAGE_DENG_COSTSCALED_H
 #define COVERAGE_DENG_COSTSCALED_H
