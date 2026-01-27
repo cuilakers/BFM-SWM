@@ -1,6 +1,5 @@
-//
-// Created by CLAKERS on 2023/10/29.
-//
+
+
 #ifndef IMAGE_BFM_NM_H
 #define IMAGE_BFM_NM_H
 #include "read_data.h"
