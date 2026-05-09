@@ -1,3 +1,7 @@
+> Code of the experiments for **Budget-Feasible Mechanisms for Submodular Welfare Maximization in Procurement Auctions** that was published at ICML 2026.
+
+For more information, contact: Shuang Cui (cuiblackmamba@foxmail.com)
+
 # BFM-SWM
 
 ## Application: Influence Maximization
